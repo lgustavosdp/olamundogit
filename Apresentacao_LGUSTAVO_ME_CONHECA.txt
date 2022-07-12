@@ -18,16 +18,16 @@ CONQUISTAS
 1. Vencedor em 1º LUGAR do Concurso Casa Conectada e IoT - 2015
 Comunidade  - Embarcados.com.br
 Abaixo, Concurso e mais detalhes sobre o evento e a premiação
-Confira -> 
+Confira -> https://contest.embarcados.com.br/casa-conectada-2015/projetos/
 
 2. Escritor do Livro - Parábolas para todos
 
-Confira -> 
+Confira -> https://www.youtube.com/watch?v=wGGS3lrKYPI&t=72s
 
 3. Estou escrevendo outro Livro - Robô com Inteligência Artificial 
 com computação em nuvem e Google Cloud Plataforma com Raspberry Pi
 Eu estou gravando a produção e escrita deste livro:
-Confira -> 
+Confira -> https://www.youtube.com/watch?v=JLJa_03i-Ws&list=PLLwl28hNIx9dOPeDNGLX7vKVFNQ_PikC_
 
 4. Aprovações em concursos
 	2000 - 5ª Série no LICEU em Recife
@@ -38,8 +38,29 @@ Confira ->
 	2011 - Técnico de Projetos, construção e Montagem na Petrobras
 	2016 - Professor na Escola Técnica Professor Agamanenon Magalhães (ETEPAM)
 
+----------------------------------------------------------------
 
 
+----------------------------------------------------------------
+
+PORFÓLIO DE PROJETOS
+
+Aqui eu vou mostrar os projetos que eu julgo mais TOPs desenvolvidos por mim, porém se você quiser
+conhecer 100% do meu trabalho como programador, veja meu canal Youtube
+Youtube - CANAL L GUSTAVO EXERCÍCIOS E PROJETOS DO LIVRO
+https://www.youtube.com/c/LGUSTAVOExerc%C3%ADcioseProjetosdoLivro/videos
+
+Projeto 01 - Assistente de VOZ com Arduino
+https://www.youtube.com/watch?v=eWi8FS2OTJw&list=PLLwl28hNIx9eJAc_qdHPbTbSfKnPHjSmZ&index=46
+
+Projeto 02 - Casa Conectada com ESP32
+https://www.youtube.com/watch?v=pz84onovxp4&list=PLLwl28hNIx9eINd3_HbRXnuxDQu43FM9i&index=50
+
+Projeto 03 - Robô com Inteligência Artificial e Computação em Nuvem
+https://www.youtube.com/watch?v=VVxWzSp-gQs&list=PLLwl28hNIx9eINd3_HbRXnuxDQu43FM9i&index=49
+
+Projeto 04 - Rede de IoT com ESP32 LoRa - Do Hardware ao Software
+Em desenvolvimento
 
 ----------------------------------------------------------------
 
@@ -66,8 +87,14 @@ Conteúdos: Internet das Coisas (IoT), Inteligência Artificial (IA) e Robótica
 
 Redes Sociais
 a. Youtube - CANAL L GUSTAVO EXERCÍCIOS E PROJETOS DO LIVRO
+https://www.youtube.com/c/LGUSTAVOExerc%C3%ADcioseProjetosdoLivro/videos
+
 b. Facebook - L GUSTAVO
+https://web.facebook.com/L-Gustavo-919986254837453
+
 c. Instagram - @_l_gustavo_projetos
+https://www.instagram.com/_lgustavo_projetos/
+
 
 Professor 4.0 - Aprender ministrar aulas de IoT e desenvolver projetos com os seus alunos
 dentro da sala, e implantar na escola por meio dos projetos integradores
@@ -75,10 +102,14 @@ Conteúdos: Projetos de Internet das Coisas (IoT), ferramentas pedagógicas, dem
 projetos de IoT com os alunos.
 
 Redes Sociais
-a. Youtube - CANAL L GUSTAVO EXERCÍCIOS E PROJETOS DO LIVRO
-b. Facebook
-c. Instagram
+a. Youtube - L GUSTAVO - Escola 4.0 - Professor 4.0
+https://www.youtube.com/channel/UCkw8_ZyYiISwysIPa491atA
 
+b. Facebook - L Gustavo - Escola 4.0 - Professor
+https://web.facebook.com/L-Gustavo-Escola-40-Professor-101890012370776
+
+c. Instagram
+@lgustavo_aula_magica
 
 Empreendedor 4.0 - Desenvolver sua escola de robótica e programação para jovens e adolescentes
 com o foco de inserir este público no mercado de trabalho
@@ -87,9 +118,15 @@ Conteúdos: Mostrar estratégias para conquistar clientes (pais e filhos), e con
 de robótica e programação para ensinar os jovens e adolescentes.
 
 Redes Sociais
-a. Youtube - CANAL L GUSTAVO EXERCÍCIOS E PROJETOS DO LIVRO
-b. Facebook
+
+a. Youtube - L GUSTAVO - Escola de Robótica
+https://www.youtube.com/channel/UCeoR4J817Gc-Nb2jEVW7a9g 
+
+b. Facebook - L Gustavo - Escola de Robótica
+https://web.facebook.com/L-Gustavo-Escola-de-Rob%C3%B3tica-104808751849493
+
 c. Instagram
+@l_gustavo_escola_robotica
 
 
 
@@ -115,7 +152,18 @@ h. Sistemas Linux embarcado - Raspberry Pi - Raspbian
 
 05 - Programador BACKEND (estudando para realizar esta transição de carreira)
 Estou conhecendo mais deste novo mundo, e por isso, dentro do backend, estou buscando
-aprender tudo.
+aprender tudo. Porém, apesar de ser iniciante, toda minha trajetória de BACKEND de IoT, está sendo gravada
+nesta playlist abaixo, em meu canal do Youtube. Confira no link abaixo:
+
+Programador Backend de IoT-Hardware ao software
+https://www.youtube.com/watch?v=xoP_NLjWgxk&list=PLLwl28hNIx9fNwblJ64VfgFp6LfdL2LSb
+
+Quero que a minha transição seja da seguinte forma:
+
+2022 - Realizar projetos Freelancers
+2023 - Fechar contratos e parcerias com empresas para desenvolver projetos por freelancer ou por hora
+2024 - Ministrar Aulas de programação dentro das empresas. Quero fazer parte do time de educação e desenvolvimento
+da empresa. Quero ser um professor
 
 
 06 - Técnico de Projetos, construção e Montagem - Mecânica
