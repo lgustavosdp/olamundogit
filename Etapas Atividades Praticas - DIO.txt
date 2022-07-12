@@ -1,0 +1,20 @@
+Etapa 01 - Utilizar o GIT/GITHUB
+
+Passo 01 - Acessar a conta  (OK)
+Nome de usuário (ou e-mail) e senha
+
+Passo 02 - Criar arquivos localmente
+olamundo3.txt
+
+Passo 03 - Adicionar
+git add .
+
+Passo 04 - Rastrear as modificações nos arquivos e preparar o envio
+git commit -m "Enviando"
+
+Passo 05 - Fazer o upload dos arquivos para a nuvem
+git push -u origin main
+-------------------------------------------------------------------------------------------
+
+
+Etapa 02 - Criar uma 
