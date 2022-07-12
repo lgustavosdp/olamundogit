@@ -1,0 +1,171 @@
+Quem é Luiz Gustavo?
+
+----------------------------------------------------------------
+Formação - Escolaridade
+
+1.Engenheiro Eletrônico pela UPE (Universidade de Pernambuco)
+Junho de 2015
+
+2.Técnico em Manutenção Automotiva pelo SENAI-PE
+Junho de 2008
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+CONQUISTAS
+
+1. Vencedor em 1º LUGAR do Concurso Casa Conectada e IoT - 2015
+Comunidade  - Embarcados.com.br
+Abaixo, Concurso e mais detalhes sobre o evento e a premiação
+Confira -> 
+
+2. Escritor do Livro - Parábolas para todos
+
+Confira -> 
+
+3. Estou escrevendo outro Livro - Robô com Inteligência Artificial 
+com computação em nuvem e Google Cloud Plataforma com Raspberry Pi
+Eu estou gravando a produção e escrita deste livro:
+Confira -> 
+
+4. Aprovações em concursos
+	2000 - 5ª Série no LICEU em Recife
+	2005 - Curso de Técnico em Manutenção Automotiva pelo SENAI
+	2008 - Vestibular para Engenharias na Universidade Federal de Pernambuco (UFPE) (Não cursei)
+	2008 - Vestibular para Engenharias na Universidade de Pernambuco (UPE)
+	2011 - Operador na Petroquímica de SUAPE
+	2011 - Técnico de Projetos, construção e Montagem na Petrobras
+	2016 - Professor na Escola Técnica Professor Agamanenon Magalhães (ETEPAM)
+
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+Experiência Profissional
+
+01 - Professor na Escola Técnica Professor Agamenon Magalhães - ETEPAM
+Abril de 2017 até AGORA
+Curso: Mecatrônica
+Disciplinas de Lógica de programação, Internet das Coisas (IoT), 
+Arduino, Eletrônica Digital e afins.
+A disciplina de IoT compreende o desenvolvimento do hardware ao software,
+ou seja, da geração de dados passando pelo gerenciamento de um 
+banco de dados MySQL (Local e Remoto), e finalizando em uma tela de 
+exibição ao usuário.
+
+02 - Disseminador de Conteúdos nas Redes Sociais: Maker, Professor e Empreendedor
+
+Maker 4.0 - APRENDER PROGRAMAÇÃO
+Conteúdos: Internet das Coisas (IoT), Inteligência Artificial (IA) e Robótica
+           Arduino, ESP32 e Raspberry Pi
+
+Redes Sociais
+a. Youtube - CANAL L GUSTAVO EXERCÍCIOS E PROJETOS DO LIVRO
+b. Facebook
+c. Instagram
+
+Professor 4.0 - Aprender ministrar aulas de IoT e desenvolver projetos com os seus alunos
+dentro da sala, e implantar na escola por meio dos projetos integradores
+Conteúdos: Projetos de Internet das Coisas (IoT), ferramentas pedagógicas, demonstrações de 
+projetos de IoT com os alunos.
+
+Redes Sociais
+a. Youtube - CANAL L GUSTAVO EXERCÍCIOS E PROJETOS DO LIVRO
+b. Facebook
+c. Instagram
+
+
+Empreendedor 4.0 - Desenvolver sua escola de robótica e programação para jovens e adolescentes
+com o foco de inserir este público no mercado de trabalho
+
+Conteúdos: Mostrar estratégias para conquistar clientes (pais e filhos), e construir sua oficina 
+de robótica e programação para ensinar os jovens e adolescentes.
+
+Redes Sociais
+a. Youtube - CANAL L GUSTAVO EXERCÍCIOS E PROJETOS DO LIVRO
+b. Facebook
+c. Instagram
+
+
+
+03 - Professor de Curso ON-LINE
+
+Meu curso ON-LINE é focado em ensinar os makers a aprenderem programação desenvolvendo
+projetos de IoT, IA e Robótica com Arduino, ESP32 e Raspberry Pi.
+
+
+04 - Programador Freelancer de Dispositivos Embarcados
+Programação com as plataformas: Arduino, ESP32 e Raspberry Pi
+Desenvolvimento do firmware embarcado com: 
+
+a. linguagem C/C++
+b. linguagem PYTHON.
+c. Raspberry Pi
+d. Arduino
+e. ESP32
+f. Internet das Coisas
+g. Inteligência Artificial com APIs da Google Cloud Plataforma (Computação em Nuvem - CLOUD COMPUTING)
+h. Sistemas Linux embarcado - Raspberry Pi - Raspbian
+
+
+05 - Programador BACKEND (estudando para realizar esta transição de carreira)
+Estou conhecendo mais deste novo mundo, e por isso, dentro do backend, estou buscando
+aprender tudo.
+
+
+06 - Técnico de Projetos, construção e Montagem - Mecânica
+Agosto de 2011 até AGORA
+Atuo na fiscalização de atividades de engenharia e manutenção industrial
+Empresa: Petrobras Petroleo SA
+
+
+07 - Técnico de Inspeção Veicular
+Julho de 2008 até Agosto de 2011
+Empresa PIV - Pernambuco
+Inspeção de Segurança veicular de carros movidos a GNV
+
+
+08 - Estágio de Manutenção de Automóveis
+Junho a Dezembro de 2007
+Empresa Grupo PArvi - Concessionária FIORI - FIAT
+Manutenção de Automóveis - Auxiliar de Mecânico
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
