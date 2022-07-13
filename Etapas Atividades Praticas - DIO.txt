@@ -16,6 +16,31 @@ Passo 05 - Fazer o upload dos arquivos para a nuvem
 git push -u origin main
 -------------------------------------------------------------------------------------------
 
+Atividade 01 - Lógica de Programação------------------------------------------------------- Atividade DIO (OK) - Gravação de Vídeo (OK)
+
+Atividade 02 - Manipulação de Repositórios com GIT e GITHUB-------------------------------- Atividade DIO (OK) - MAPA (OK)
+
+Atividade 03 - Criação das primeiras páginas em PHP + Servidor XAMPP----------------------- Atividade DIO (OK) - 
+
+Atividade 04 - Recriando a Página de Login do Instagram------------------------------------ Atividade DIO (OK) - 
+
+Atividade 05 - Desafio Inicial com JavaScript---------------------------------------------- Atividade DIO (OK) - 
+
+Atividade 06 - Sistema de Estacionamento com TypeScript------------------------------------
+
+Atividade 07 - Desafio Intermediário com JavaScript----------------------------------------
+
+Atividade 08 - Front-END Componentizado na prática com ReactJs-----------------------------
+
+Atividade 09 - Desafio FINAL de Código-----------------------------------------------------
+
+Atividade 10 - Encurtador de URL-----------------------------------------------------------
+
+
+
+Atividade 02 - 
+
+
 Etapa 02 - Criar um servidor básico
 
 Passo 01 - Iniciar o XAMPP
@@ -29,6 +54,26 @@ Passo 01 - Modificar o nome
 Passo 02 - Modificar a foto
 	Colocar a minha foto
 	Modificar para 150x150
+
+
+
+Atividade 06 - Sistema de Estacionamento com TypeScript
+
+Passo 01 - Fazer o Download dos códigos disponibilizados (OK)
+Passo 02 - Alocar os arquivos na pasta do servidor como: 
+		estacionamento.html
+		estacionamento.js
+		estacionamento.ts
+
+Local do Servidor: C:\projetos_atividades_bootcamp_dio_spread
+
+
+Passo 03 - Iniciar o servidor e carregar a página do estacionamento pelo endereço: 
+http://localhost/estacionamento.html
+Passo 04 - Realizar modificações no arquivo estacionamento.htmlpara personalizar como L GUSTAVO
+	a. Modificar o título principal no código HTML - <title>Estacionamento L GUSTAVO</title>
+	b. No código JavaScript utilizando o Type, eu modifiquei o alerta caso algum dos campos fiquem sem preenchimento
+	alert("Você precisa obrigatoriamente preencher os dois campos.");
 
 
 
