@@ -16,5 +16,19 @@ Passo 05 - Fazer o upload dos arquivos para a nuvem
 git push -u origin main
 -------------------------------------------------------------------------------------------
 
+Etapa 02 - Criar um servidor básico
 
-Etapa 02 - Criar uma 
+Passo 01 - Iniciar o XAMPP
+Passo 02 - Criar os arquivos PHP
+
+
+Etapa 03 - Criar uma página inicial do INSTAGRAM
+
+
+Passo 01 - Modificar o nome
+Passo 02 - Modificar a foto
+	Colocar a minha foto
+	Modificar para 150x150
+
+
+
