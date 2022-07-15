@@ -47,10 +47,12 @@ Atividade 05 - Desafio Inicial com JavaScript-----------------------------------
 Atividade 06 - Sistema de Estacionamento com TypeScript------------------------------------ Atividade DIO (OK)
 
 Atividade 07 - Desafio Intermediário com JavaScript---------------------------------------- OK porém a plataforma deve estar com erro
+Os códigos estão na plataforma!
 
 Atividade 08 - Front-END Componentizado na prática com ReactJs----------------------------- Não é o meu PERFIL - Quero ser backend
 
-Atividade 09 - Desafio FINAL de Código----------------------------------------------------- 
+Atividade 09 - Desafio FINAL de Código----------------------------------------------------- Não tive tempo de fazer!!
+
 
 Atividade 10 - Encurtador de URL----------------------------------------------------------- Não é o meu PERFIL - Quero ser backend
 
@@ -125,6 +127,22 @@ o back end. lógica de programação, e resolução de algoritmos com banco de d
 
 
 
+
+
+Resumo da Minha experiência no bootcamp Spread
+
+Foi ótima esta experiência, e eu sei que eu dei o meu máximo.
+Minha rotina é extremamente puxada, pois eu trabalho em duas jornadas (O dia inteiro + Noite).
+Então mais de 90% do bootcamp, eu fiz dentro do ônibus, me esforçando por cada minuto.
+Eu me sinto um programador mais profissional, sabendo utilizar mais ferramentas de programação.
+
+"Estou à disposição para ser chamado para ministrar cursos na área de back end e também de Internet das Coisas"
+
+1. JAVASCRIPT
+2. TypeScript
+3. Banco de Dados
+
+Estas 3 habilidades que pretendo me especializar para ministrar cursos.
 
 
 
