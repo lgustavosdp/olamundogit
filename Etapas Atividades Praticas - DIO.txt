@@ -1,3 +1,21 @@
+Meu perfil profissional é de Professor de Programação!
+
+Meu desejo com este bootcamp é fechar parceria com a Spread para
+ministrar cursos livres sempre que a Empresa tiver uma necessidade de
+treinamento e desenvolvimento.
+
+Então como resultado, quero mostrar para a Spread minha capacidade de "ensinar", e 
+passar o conhecimento de forma didática para quem está aprendendo. Logo, para fazer isso,
+eu criei uma playlist no meu canal Youtube L GUSTAVO EXERCÍCIOS E PROJETOS DO LIVRO chamada:
+
+Episódio 01 - Seja bem-vindo à nova oportunidade - Programador Backend de IoT-Hardware ao software
+Programador Backend de IoT-Hardware ao software
+https://www.youtube.com/watch?v=xoP_NLjWgxk&list=PLLwl28hNIx9fNwblJ64VfgFp6LfdL2LSb
+
+Todo o conhecimento adquirido neste bootcamp, será utilizado para fazer um projeto completo de IoT, 
+do hardware ao software. 
+
+
 Etapa 01 - Utilizar o GIT/GITHUB
 
 Passo 01 - Acessar a conta  (OK)
@@ -26,15 +44,15 @@ Atividade 04 - Recriando a Página de Login do Instagram------------------------
 
 Atividade 05 - Desafio Inicial com JavaScript---------------------------------------------- Atividade DIO (OK) - 
 
-Atividade 06 - Sistema de Estacionamento com TypeScript------------------------------------
+Atividade 06 - Sistema de Estacionamento com TypeScript------------------------------------ Atividade DIO (OK)
 
-Atividade 07 - Desafio Intermediário com JavaScript----------------------------------------
+Atividade 07 - Desafio Intermediário com JavaScript---------------------------------------- OK porém a plataforma deve estar com erro
 
-Atividade 08 - Front-END Componentizado na prática com ReactJs-----------------------------
+Atividade 08 - Front-END Componentizado na prática com ReactJs----------------------------- Não é o meu PERFIL - Quero ser backend
 
-Atividade 09 - Desafio FINAL de Código-----------------------------------------------------
+Atividade 09 - Desafio FINAL de Código----------------------------------------------------- 
 
-Atividade 10 - Encurtador de URL-----------------------------------------------------------
+Atividade 10 - Encurtador de URL----------------------------------------------------------- Não é o meu PERFIL - Quero ser backend
 
 
 
@@ -74,6 +92,48 @@ Passo 04 - Realizar modificações no arquivo estacionamento.htmlpara personaliz
 	a. Modificar o título principal no código HTML - <title>Estacionamento L GUSTAVO</title>
 	b. No código JavaScript utilizando o Type, eu modifiquei o alerta caso algum dos campos fiquem sem preenchimento
 	alert("Você precisa obrigatoriamente preencher os dois campos.");
+
+Passo 05 - Colocar os arquivos dentro do repositório local
+Passo 06 - Fazer o push para o GITHUB
+
+
+Atividade 08 - Front-END Componentizado na prática com ReactJs
+
+Tive algumas dificuldades de entender o assunto exposto. Então decidi voltar cada aula, e instalar os programas necessários
+e fazer o passo-a-passo de cada aula bem detalhado para ter condições de entregar o projeto. Eu nem consegui abrir o programa
+disponibilizado pelo desafio em minha máquina, no meu servidor local.
+
+
+Passo 01 - Fazer o Download e Instalação do VisualStudioCode (OK)
+https://code.visualstudio.com/docs/?dv=win
+
+Passo 02 - Fazer Download do Node Js (OK)
+https://nodejs.org/en/download/current/
+
+Passo 03 - Fazer instalação do Node Js (OK)
+
+Passo 04 - Configuração Básica
+	npm init
+	npm install --save react@16.8.6 react-dom@16.8.6 react-scripts@3.0.1
+
+OBSERVAÇÕES
+
+1. Tive problemas na instalação deste pacote - NPM: Consegui instalar pelo passo 02 porém não conseguir fazer o processo no terminal como mostrar no curso
+2. Mesmo tendo experiência com programação, achei este conteúdo um pouco avançado. 
+3. Conforme falado nos vídeos, o foco do react é front-end. E o meu é back-end. Eu sei que o front é importante mas eu me identifico mais com 
+o back end. lógica de programação, e resolução de algoritmos com banco de dados. Eu sou metódico e racional. Não combina muito com "experiência ao usuário".
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
